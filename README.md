@@ -4,10 +4,10 @@
 
 ### 「 Full Stack Developer • Java Enthusiast • React Native Developer 」
 
-<img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Database-MongoDB-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-Developer-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/React_Native-Mobile_App-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-success?style=for-the-badge"/>
 
 </div>
 
@@ -16,92 +16,48 @@
 # 🧑‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
 
 ```java
-class Paramveer {
+public class Paramveer {
 
     String role = "Full Stack Developer";
     String university = "Galgotias University";
 
-    String[] skills = {
+    String[] techStack = {
         "Java",
         "React Native",
         "Node.js",
         "MongoDB",
-        "DSA"
+        "MySQL"
     };
 
-    String currentGoal = "Become a Great Software Engineer";
+    String passion = "Building Real World Applications";
+
+    String currentGoal =
+        "Become a Skilled Software Engineer";
 }
 ```
 
 ---
 
-# ⚡ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
+# ⚡ 𝙏𝙚𝙘𝙝 𝘼𝙧𝙨𝙚𝙣𝙖𝙡
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma&perline=6"/>
 
-</p>
-
----
-
-# 🚀 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙙 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
-
-## 🩺 Smart Medical AI Assistant
-
-◉ Disease Prediction using Gemini API
-
-◉ Nearby Hospital Finder
-
-◉ Medicine Reminder System
-
-◉ Google Maps Integration
-
----
-
-## 💧 Aquafine
-
-◉ Water Delivery Platform
-
-◉ Razorpay Integration
-
-◉ JWT Authentication
-
-◉ Admin Dashboard
-
-◉ Cart & Wishlist
-
----
-
-# 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Param3840&show_icons=true&theme=radical&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param3840&layout=compact&theme=radical&hide_border=true"/>
-
 </div>
 
 ---
 
-# 🔥 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙧𝙚𝙖𝙠
+# 🎯 𝘾𝙪𝙧𝙧𝙚𝙣𝙩 𝙁𝙤𝙘𝙪𝙨
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Param3840&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 𝙂𝙞𝙩𝙃𝙪𝙗 𝙏𝙧𝙤𝙥𝙝𝙞𝙚𝙨
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Param3840&theme=radical&no-frame=true&row=1&column=6"/>
-
-</div>
+```txt
+▣ Data Structures & Algorithms
+▣ Full Stack Development
+▣ React Native Applications
+▣ Backend Engineering
+▣ System Design
+▣ AI Powered Applications
+```
 
 ---
 
@@ -117,27 +73,35 @@ class Paramveer {
 
 ---
 
-# 🎯 2026 𝙂𝙤𝙖𝙡𝙨
-
-```text
-[✓] Build Production Ready Apps
-[✓] Master DSA Fundamentals
-[ ] Reach 500+ LeetCode Problems
-[ ] Crack Top Product Companies
-[ ] Become Full Stack Expert
-```
-
----
-
-# 🌐 𝘾𝙤𝙣𝙣𝙚𝙘𝙩
+# 🏆 𝙂𝙞𝙩𝙃𝙪𝙗 𝙏𝙧𝙤𝙥𝙝𝙞𝙚𝙨
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Param3840-black?style=for-the-badge&logo=github)](https://github.com/Param3840)
+<img src="https://github-profile-trophy.vercel.app/?username=Param3840&theme=algolia&no-frame=true&row=1&column=6"/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+</div>
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/param3840/)
+---
+
+# 🌐 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙒𝙞𝙩𝙝 𝙈𝙚
+
+<div align="center">
+
+<a href="mailto:paramveersingh240303@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/param3840/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Param3840">
+<img src="https://img.shields.io/badge/GitHub-Param3840-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -145,10 +109,11 @@ class Paramveer {
 
 <div align="center">
 
-## ⚔️ Developer Mindset
+## ⚔️ 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙈𝙞𝙣𝙙𝙨𝙚𝙩
 
-> ❝ First, solve the problem.
-> Then, write the code. ❞
+> ❝ The best way to predict the future is to build it. ❞
+
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=Param3840&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
 
