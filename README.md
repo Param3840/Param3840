@@ -1,147 +1,155 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Paramveer%20Kumar%20Singh&fontSize=45&fontColor=ffffff&animation=fadeIn" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Paramveer Kumar Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | 📱 React Native Developer | ☕ Java Developer</h3>
+# 𝙋𝘼𝙍𝘼𝙈𝙑𝙀𝙀𝙍 𝙆𝙐𝙈𝘼𝙍 𝙎𝙄𝙉𝙂𝙃
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+Native+Developer;Java+Developer;DSA+Enthusiast;Building+Real+World+Projects" />
-</p>
+### 「 Full Stack Developer • Java Enthusiast • React Native Developer 」
+
+<img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database-MongoDB-success?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 👨‍💻 About Me
+# 🧑‍💻 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚
 
-```yaml
-Name: Paramveer Kumar Singh
-Location: India 🇮🇳
-Education: B.Tech Computer Science
-University: Galgotias University
+```java
+class Paramveer {
 
-Interests:
-  - Full Stack Development
-  - Mobile App Development
-  - Data Structures & Algorithms
-  - Artificial Intelligence
+    String role = "Full Stack Developer";
+    String university = "Galgotias University";
 
-Current Focus:
-  - React Native
-  - Node.js
-  - MongoDB
-  - System Design
+    String[] skills = {
+        "Java",
+        "React Native",
+        "Node.js",
+        "MongoDB",
+        "DSA"
+    };
+
+    String currentGoal = "Become a Great Software Engineer";
+}
 ```
 
-### 🔥 What I'm Working On
-
-- 🩺 Smart Medical AI Assistant
-- 💧 Aquafine Water Delivery Platform
-- 🚀 Full Stack Web Applications
-- 📱 Cross Platform Mobile Apps
-- 💻 DSA & Competitive Programming
-
 ---
 
-## ⚡ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma&perline=6" />
-</p>
-
----
-
-## 📊 GitHub Stats
+# ⚡ 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Param3840&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param3840&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,figma&perline=6"/>
 
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🚀 𝙁𝙚𝙖𝙩𝙪𝙧𝙚𝙙 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Param3840&theme=tokyonight&hide_border=true"/>
-</p>
+## 🩺 Smart Medical AI Assistant
 
----
+◉ Disease Prediction using Gemini API
 
-## 📈 Contribution Graph
+◉ Nearby Hospital Finder
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Param3840&theme=tokyo-night&hide_border=true"/>
-</p>
+◉ Medicine Reminder System
+
+◉ Google Maps Integration
 
 ---
 
-## 🏆 GitHub Trophies
+## 💧 Aquafine
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Param3840&theme=tokyonight&row=1&column=6"/>
-</p>
+◉ Water Delivery Platform
 
----
+◉ Razorpay Integration
 
-## 🚀 Featured Projects
+◉ JWT Authentication
 
-### 🩺 Smart Medical AI Assistant
+◉ Admin Dashboard
 
-- Disease Prediction using Gemini API
-- Nearby Hospital Finder
-- Medicine Reminder System
-- Google Maps Integration
-
-**Tech:** React Native, Node.js, MongoDB, JWT
+◉ Cart & Wishlist
 
 ---
 
-### 💧 Aquafine – Premium Water Delivery Platform
+# 📊 𝙂𝙞𝙩𝙃𝙪𝙗 𝘼𝙣𝙖𝙡𝙮𝙩𝙞𝙘𝙨
 
-- JWT Authentication
-- Razorpay Integration
-- Cart & Wishlist
-- Admin Dashboard
+<div align="center">
 
-**Tech:** React Native, React.js, Node.js, MongoDB
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Param3840&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param3840&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
 
 ---
 
-## 🌐 Connect With Me
+# 🔥 𝙂𝙞𝙩𝙃𝙪𝙗 𝙎𝙩𝙧𝙚𝙖𝙠
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/Param3840">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Param3840&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 𝙂𝙞𝙩𝙃𝙪𝙗 𝙏𝙧𝙤𝙥𝙝𝙞𝙚𝙨
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Param3840&theme=radical&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+# 💻 𝙇𝙚𝙚𝙩𝘾𝙤𝙙𝙚 𝙅𝙤𝙪𝙧𝙣𝙚𝙮
+
+<div align="center">
+
+<a href="https://leetcode.com/u/param3840/">
+<img src="https://leetcard.jacoblin.cool/param3840?theme=dark&font=Karma&ext=heatmap"/>
 </a>
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:paramveersingh240303@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-## 👀 Profile Views
+# 🎯 2026 𝙂𝙤𝙖𝙡𝙨
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Param3840&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-</p>
+```text
+[✓] Build Production Ready Apps
+[✓] Master DSA Fundamentals
+[ ] Reach 500+ LeetCode Problems
+[ ] Crack Top Product Companies
+[ ] Become Full Stack Expert
+```
 
 ---
 
-<p align="center">
+# 🌐 𝘾𝙤𝙣𝙣𝙚𝙘𝙩
 
-### 💭 Quote
+<div align="center">
 
-*"Code. Learn. Build. Repeat."* 🚀
+[![GitHub](https://img.shields.io/badge/GitHub-Param3840-black?style=for-the-badge&logo=github)](https://github.com/Param3840)
 
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_URL)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/param3840/)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚔️ Developer Mindset
+
+> ❝ First, solve the problem.
+> Then, write the code. ❞
+
+<img src="https://komarev.com/ghpvc/?username=Param3840&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+
+</div>
