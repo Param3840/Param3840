@@ -1,162 +1,132 @@
-<h1 align="center">Hi 👋, I'm Paramveer Kumar Singh</h1>
-<h3 align="center">🚀 Full Stack Developer | 📱 React Native Developer | 💡 Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=B.Tech+Computer+Science+Student;Full+Stack+Developer;React+Native+Developer;DSA+Enthusiast;Building+Real+World+Projects;Always+Learning+New+Things" />
-</p>
+# ⚡ PARAMVEER KUMAR SINGH ⚡
+
+### 🚀 Full Stack Developer | 📱 React Native | ☕ Java Developer
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Welcome+to+my+Digital+Universe...;Building+Apps+That+Matter;Java+%7C+Node.js+%7C+React+Native;Always+Learning+Something+New" />
+
+</div>
 
 ---
 
-## 🙋‍♂️ About Me
+## 🌌 About Me
 
-🎓 B.Tech Computer Science Student at **Galgotias University**
+```yaml
+Name: Paramveer Kumar Singh
+Location: India 🇮🇳
+Education: B.Tech CSE
+University: Galgotias University
+Focus:
+  - Full Stack Development
+  - Mobile App Development
+  - Data Structures & Algorithms
+  - Artificial Intelligence
 
-💻 Passionate about **Software Development, DSA, AI Applications & Mobile Apps**
+Current_Status: Building Cool Stuff 🚀
+```
 
-🌱 Currently learning **Advanced Backend Development & System Design**
+---
 
-🚀 Building scalable full-stack applications and solving coding problems
+## ⚔️ Tech Arsenal
 
-💡 Love turning ideas into real products
+<div align="center">
 
-📫 Reach me at: **paramveersingh240303@gmail.com**
+<img src="https://skillicons.dev/icons?i=java,javascript,react,nodejs,express,mongodb,mysql,git,github,vscode,figma,html,css&perline=7" />
+
+</div>
+
+---
+
+## 🚀 Mission Control
+
+| Project | Description |
+|----------|------------|
+| 🩺 Smart Medical AI Assistant | Disease prediction, hospital finder & medicine reminders |
+| 💧 Aquafine | Premium water delivery platform with Razorpay integration |
+| 🤖 AI Projects | Exploring Generative AI & API integrations |
+| 💻 DSA Journey | Solving algorithmic challenges daily |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Param3840&show_icons=true&theme=radical"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param3840&layout=compact&theme=radical"/>
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Param3840&theme=radical" />
+
+</div>
+
+---
+
+## 🏆 Achievement Gallery
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Param3840&theme=radical&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Param3840&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Become a Top Software Engineer
+- 📱 Publish Production Mobile Apps
+- 🏆 Reach 1000+ DSA Problems
+- 🤖 Build AI-Powered Products
+- 🌎 Work with Global Teams
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://github.com/Param3840" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<div align="center">
+
+<a href="https://github.com/Param3840">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:paramveersingh240303@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
-</p>
+
+</div>
 
 ---
 
-# 🚀 Tech Stack
+<div align="center">
 
-### 👨‍💻 Languages
+### 💭 Developer Philosophy
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,html,css" />
-</p>
+> "Code. Learn. Build. Repeat."
 
-### ⚡ Frontend
+<img src="https://komarev.com/ghpvc/?username=Param3840&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,tailwind" />
-</p>
-
-### 🔥 Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
-
-### 🛠 Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
-
----
-
-# 🏆 Featured Projects
-
-## 🩺 Smart Medical AI Assistant
-
-📱 AI-powered mobile application that predicts diseases from symptoms using Gemini API.
-
-### Features
-
-✅ Disease Prediction
-
-✅ Nearby Hospital Finder
-
-✅ Medicine Reminders
-
-✅ Google Maps Navigation
-
-### Tech Stack
-
-React Native • Node.js • Express • MongoDB • JWT • Gemini API
-
----
-
-## 💧 Aquafine – Premium Water Delivery Platform
-
-Complete E-commerce Water Delivery Application
-
-### Features
-
-✅ JWT Authentication
-
-✅ Email Verification
-
-✅ Razorpay Payments
-
-✅ Persistent Cart & Wishlist
-
-✅ Admin Dashboard
-
-### Tech Stack
-
-React Native • React.js • Node.js • Express.js • MongoDB Atlas
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Param3840&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Param3840&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Param3840&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-# 🎯 2026 Goals
-
-- 🔥 Master Full Stack Development
-- 🚀 Build SaaS Products
-- 📱 Publish Mobile Apps
-- 🏆 Solve 1000+ DSA Problems
-- 💼 Land a Great Software Engineering Role
-
----
-
-## ⚡ Fun Fact
-
-```java
-while(!success){
-    learn();
-    build();
-    improve();
-}
-```
-
-⭐ Thanks for visiting my profile!
+</div>
